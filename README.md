@@ -1,2 +1,3 @@
-# api_python
-primera api
+# API
+
+Primera api, con `python` y `flask`
